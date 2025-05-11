@@ -1,0 +1,1 @@
+- palette-secam.png,  by vee, https://lospec.com/palette-list/secam
